@@ -1,0 +1,542 @@
+[
+    {
+        "chef_id": "CS1001",
+        "chef_name": "Chef Sanzida",
+        "chef_image": "https://example.com/siddika-kabir.jpg",
+        "bio": "Chef Sanzida was a renowned Bangladeshi cooking expert, cookbook author, and television presenter. She was the host of a popular cooking show called \"Ranna Khaddo Pushti\" which aired for more than two decades. Chef Sanzida authored several cookbooks and was widely regarded as the \"Queen of Bengali Cuisine\".",
+        "likes": 23456,
+        "experience": 5,
+        "recipes": [
+            {
+                "recipe_name": "Beef Bhuna",
+                "image": "https://example.com/beef-bhuna.jpg",
+                "ingredients": [
+                    "1 pound beef, cut into small pieces",
+                    "1 onion, chopped",
+                    "3-4 green chilies, sliced",
+                    "1 tablespoon ginger paste",
+                    "1 tablespoon garlic paste",
+                    "1 teaspoon turmeric powder",
+                    "1 teaspoon cumin powder",
+                    "1 teaspoon coriander powder",
+                    "1 teaspoon chili powder",
+                    "2-3 tablespoons oil",
+                    "Salt, to taste",
+                    "Cilantro, chopped, for garnishing"
+                ],
+                "cooking_method": [
+                    "Heat oil in a pan and fry the onions until golden brown.",
+                    "Add the ginger and garlic paste and fry for 2-3 minutes.",
+                    "Add the beef and cook until the meat changes color.",
+                    "Add the turmeric powder, cumin powder, coriander powder, and chili powder. Mix well.",
+                    "Add a little water and cook on low heat until the beef is tender.",
+                    "Add the green chilies and salt to taste.",
+                    "Cook for another 2-3 minutes.",
+                    "Garnish with cilantro and serve hot."
+                ],
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Prawn Malai Curry",
+                "image": "https://example.com/prawn-malai-curry.jpg",
+                "ingredients": [
+                    "1 pound prawns, deveined",
+                    "1 onion, finely chopped",
+                    "1 teaspoon ginger paste",
+                    "1 teaspoon garlic paste",
+                    "1 teaspoon turmeric powder",
+                    "1 teaspoon cumin powder",
+                    "1 teaspoon coriander powder",
+                    "1 cup coconut milk",
+                    "1/2 cup cream",
+                    "1-2 green chilies, sliced",
+                    "2-3 tablespoons oil",
+                    "Salt, to taste",
+                    "Cilantro, chopped, for garnishing"
+                ],
+                "cooking_method": [
+                    "Heat oil in a pan and fry the onions until golden brown.",
+                    "Add the ginger and garlic paste and fry for 2-3 minutes.",
+                    "Add the turmeric powder, cumin powder, and coriander powder. Mix well.",
+                    "Add a little water and cook on low heat until the spices are well cooked.",
+                    "Add the prawns and cook for 3-4 minutes or until the prawns are cooked through.",
+                    "Add the coconut milk and cream. Mix well and cook for another 2-3 minutes.",
+                    "Add the green chilies and salt to taste.",
+                    "Garnish with cilantro "
+                ]
+            },
+            {
+                "recipe_name": "Chingri Bhorta",
+                "image": "https://example.com/chingri-bhorta.jpg",
+                "ingredients": [
+                    "1 pound shrimp, peeled and deveined",
+                    "2 medium-sized onions, chopped",
+                    "2-3 green chilies, chopped",
+                    "1 tablespoon garlic paste",
+                    "1 tablespoon ginger paste",
+                    "1/4 teaspoon turmeric powder",
+                    "1/2 teaspoon cumin powder",
+                    "1/2 teaspoon coriander powder",
+                    "1/2 teaspoon red chili powder",
+                    "Salt, to taste",
+                    "3-4 tablespoons oil",
+                    "Cilantro, chopped, for garnishing"
+                ],
+                "cooking_method": [
+                    "Boil the shrimp in water until they turn pink, then remove from heat and drain.",
+                    "Heat oil in a pan and fry the onions until golden brown.",
+                    "Add the ginger and garlic paste and fry for 2-3 minutes.",
+                    "Add the shrimp and stir-fry for 2-3 minutes.",
+                    "Add the turmeric powder, cumin powder, coriander powder, and red chili powder. Mix well.",
+                    "Add salt to taste and cook for another 2-3 minutes.",
+                    "Remove from heat and let it cool for a while.",
+                    "Using a blender, blend the shrimp mixture into a smooth paste.",
+                    "Garnish with chopped cilantro and serve with steamed rice."
+                ],
+                "rating": 4.5
+            }
+        ]
+    },
+    {
+        "chef_id": "CR1001",
+        "chef_name": "Chef Rokon",
+        "chef_image": "https://example.com/shawkat-osman.jpg",
+        "bio": "Chef Rokon is a Bangladeshi culinary expert, cookbook author, and television personality. He is widely regarded as one of the pioneers of modern Bangladeshi cuisine. Chef Rokon has authored several cookbooks and hosted several cooking shows on television.",
+        "likes": 8000,
+        "experience": 25,
+        "recipes": [
+            {
+                "recipe_name": "Dhaka Style Chicken Biriyani",
+                "image": "https://example.com/dhaka-style-chicken-biriyani.jpg",
+                "ingredients": [
+                    "2 cups Basmati rice",
+                    "4 chicken legs, skin removed and cut into pieces",
+                    "1 onion, finely sliced",
+                    "1 teaspoon ginger paste",
+                    "1 teaspoon garlic paste",
+                    "1 teaspoon cumin powder",
+                    "1 teaspoon coriander powder",
+                    "1 teaspoon red chili powder",
+                    "1 teaspoon turmeric powder",
+                    "1/2 cup plain yogurt",
+                    "1/4 cup milk",
+                    "1/4 cup ghee",
+                    "Salt, to taste",
+                    "Cilantro, chopped, for garnishing"
+                ],
+                "cooking_method": [
+                    "Wash and soak the rice in water for 30 minutes.",
+                    "Heat ghee in a large pan and fry the onions until golden brown.",
+                    "Add the ginger and garlic paste and fry for 2-3 minutes.",
+                    "Add the chicken and fry until the chicken turns brown.",
+                    "Add the cumin powder, coriander powder, red chili powder, turmeric powder, and salt to taste. Mix well.",
+                    "Add the plain yogurt and milk. Mix well.",
+                    "Cook the chicken on low heat until it is cooked through.",
+                    "In another pot, boil the rice until it is half cooked.",
+                    "Drain the water from the rice and put a layer of rice on top of the chicken mixture. Repeat this layering process until all the rice and chicken mixture have been used up.",
+                    "Cover the pot tightly with a lid and cook on low heat for about 20-25 minutes.",
+                    "Turn off the heat and let it rest for 10-15 minutes.",
+                    "Garnish with chopped cilantro and serve hot."
+                ],
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Mutton Rezala",
+                "image": "https://example.com/mutton-rezala.jpg",
+                "ingredients": [
+                    "2 pounds mutton, cut into pieces",
+                    "2 medium-sized onions, chopped",
+                    "2-3 green chilies, chopped",
+                    "1 tablespoon garlic paste",
+                    "1 tablespoon ginger paste",
+                    "1/4 teaspoon turmeric powder",
+                    "1/2 teaspoon cumin powder",
+                    "1/2 teaspoon coriander powder",
+                    "1/2 teaspoon red chili powder",
+                    "1 cup plain yogurt",
+                    "1/4 cup ghee",
+                    "Salt, to taste",
+                    "Cilantro, chopped, for garnishing"
+                ],
+                "cooking_method": [
+                    "Heat ghee in a pan and fry the onions until golden brown.",
+                    "Add the ginger and garlic paste and fry for 2-3 minutes.",
+                    "Add the mutton pieces and fry until they turn brown.",
+                    "Add the turmeric powder, cumin powder, coriander powder, and red chili powder. Mix well.",
+                    "Add salt to taste and cook for another 2-3 minutes.",
+                    "Add plain yogurt and mix well.",
+                    "Cook on low heat until the mutton is tender and the gravy has thickened.",
+                    "Garnish with chopped cilantro and serve hot with naan or rice."
+                ],
+                "rating": 4.6
+            },
+            {
+                "recipe_name": "Mishti Doi",
+                "image": "https://example.com/mishti-doi.jpg",
+                "ingredients": [
+                    "4 cups whole milk",
+                    "1 cup sugar",
+                    "1/4 teaspoon cardamom powder",
+                    "1 tablespoon yogurt",
+                    "1/4 cup water"
+                ],
+                "cooking_method": [
+                    "Heat the milk in a heavy-bottomed pan and bring to a boil.",
+                    "Reduce the heat and let the milk simmer until it has reduced to half its volume.",
+                    "Add the sugar and cardamom powder and mix well.",
+                    "Remove from heat and let it cool down to room temperature.",
+                    "Mix the yogurt with water and add it to the cooled milk mixture.",
+                    "Transfer the mixture to a clay pot or any other heat-resistant container.",
+                    "Cover the pot with a lid or a piece of cloth and keep it in a warm place for 6-8 hours or overnight.",
+                    "Refrigerate for at least 2 hours before serving."
+                ],
+                "rating": 4.7
+            }
+        ]
+    },
+    {
+        "chef_id": "SA1001",
+        "chef_name": "Chef Shahin Alam",
+        "chef_image": "https://example.com/images/chef-nahid.jpg",
+        "bio": "Chef Shahin Alam is a passionate cook who has been honing his skills in the kitchen for over a decade. His love for food and cooking has taken his on a journey to explore different cuisines and techniques, and he loves to share his knowledge with others.",
+        "likes": 5000,
+        "experience": "Over 10 years of experience in the culinary industry",
+        "recipes": [
+            {
+                "recipe_name": "Spicy Chicken Curry",
+                "recipe_image": "https://example.com/images/spicy-chicken-curry.jpg",
+                "ingredients": [
+                    "1 lb chicken breast, diced",
+                    "2 tbsp vegetable oil",
+                    "1 onion, chopped",
+                    "3 garlic cloves, minced",
+                    "1 tbsp grated ginger",
+                    "1 tbsp tomato paste",
+                    "1 can diced tomatoes",
+                    "1 tsp cumin",
+                    "1 tsp coriander",
+                    "1 tsp turmeric",
+                    "1 tsp garam masala",
+                    "1/2 tsp cayenne pepper",
+                    "1/2 cup water",
+                    "Salt and pepper to taste"
+                ],
+                "cooking_method": "1. Heat oil in a large pot over medium-high heat. Add onions and cook until softened. Add garlic and ginger, and cook for another minute.\n2. Add tomato paste and stir for 30 seconds.\n3. Add diced tomatoes, spices, and water. Stir well and bring to a boil.\n4. Add chicken, reduce heat to low, cover, and simmer for 20-25 minutes or until chicken is cooked through.\n5. Adjust seasoning to taste and serve with rice or naan.",
+                "rating": 3.5
+            },
+            {
+                "recipe_name": "Grilled Salmon with Lemon and Herbs",
+                "recipe_image": "https://example.com/images/grilled-salmon.jpg",
+                "ingredients": [
+                    "4 salmon fillets",
+                    "2 tbsp olive oil",
+                    "1 lemon, sliced",
+                    "1/4 cup fresh herbs (such as parsley, dill, and thyme), chopped",
+                    "Salt and pepper to taste"
+                ],
+                "cooking_method": "1. Preheat grill to medium-high heat.\n2. Brush salmon fillets with olive oil and season with salt and pepper.\n3. Grill salmon for 5-7 minutes per side, or until cooked through.\n4. Remove from grill and top with lemon slices and chopped herbs.",
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "Classic Beef Stew",
+                "recipe_image": "https://example.com/images/beef-stew.jpg",
+                "ingredients": [
+                    "2 lbs beef chuck, cut into 1-inch pieces",
+                    "2 tbsp vegetable oil",
+                    "1 onion, chopped",
+                    "3 garlic cloves, minced",
+                    "3 carrots, chopped",
+                    "3 celery stalks, chopped",
+                    "2 tbsp tomato paste",
+                    "4 cups beef broth",
+                    "2 bay leaves",
+                    "1 tsp thyme",
+                    "1 tsp rosemary",
+                    "1 tsp paprika",
+                    "1/4 cup flour",
+                    "Salt and pepper to taste"
+                ],
+                "cooking_method": [
+                    " Heat oil in a large pot over medium-high heat. Add beef and cook until browned on all sides. Remove beef from pot and set aside.",
+                    "Add onion, garlic, carrots, and celery to the pot. Cook until the vegetables are softened.",
+                    "Add tomato paste and stir for 30 seconds.",
+                    "Return the beef to the pot and add beef broth, bay leaves, thyme, rosemary, paprika, salt, and pepper. Stir well and bring to a boil.",
+                    "Reduce heat to low, cover, and simmer for 2-3 hours or until beef is tender.",
+                    "Remove bay leaves. Mix flour with a little bit of water to create a slurry, then stir it into the stew to thicken the sauce.",
+                    "Adjust seasoning to taste and serve hot."
+                ],
+                "rating": 4.7
+            }
+        ]
+    },
+    {
+        "chef_id": "SK1001",
+        "chef_name": "Siddika Kabir",
+        "chef_image": "https://example.com/siddika-kabir.jpg",
+        "bio": "Siddika Kabir was a renowned Bangladeshi cooking expert, cookbook author, and television presenter. She was the host of a popular cooking show called \"Ranna Khaddo Pushti\" which aired for more than two decades. Siddika Kabir authored several cookbooks and was widely regarded as the \"Queen of Bengali Cuisine\".",
+        "likes": 12000,
+        "experience": 35,
+        "recipes": [
+            {
+                "recipe_name": "Beef Bhuna",
+                "image": "https://example.com/beef-bhuna.jpg",
+                "ingredients": [
+                    "1 pound beef, cut into small pieces",
+                    "1 onion, chopped",
+                    "3-4 green chilies, sliced",
+                    "1 tablespoon ginger paste",
+                    "1 tablespoon garlic paste",
+                    "1 teaspoon turmeric powder",
+                    "1 teaspoon cumin powder",
+                    "1 teaspoon coriander powder",
+                    "1 teaspoon chili powder",
+                    "2-3 tablespoons oil",
+                    "Salt, to taste",
+                    "Cilantro, chopped, for garnishing"
+                ],
+                "cooking_method": [
+                    "Heat oil in a pan and fry the onions until golden brown.",
+                    "Add the ginger and garlic paste and fry for 2-3 minutes.",
+                    "Add the beef and cook until the meat changes color.",
+                    "Add the turmeric powder, cumin powder, coriander powder, and chili powder. Mix well.",
+                    "Add a little water and cook on low heat until the beef is tender.",
+                    "Add the green chilies and salt to taste.",
+                    "Cook for another 2-3 minutes.",
+                    "Garnish with cilantro and serve hot."
+                ],
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Prawn Malai Curry",
+                "image": "https://example.com/prawn-malai-curry.jpg",
+                "ingredients": [
+                    "1 pound prawns, deveined",
+                    "1 onion, finely chopped",
+                    "1 teaspoon ginger paste",
+                    "1 teaspoon garlic paste",
+                    "1 teaspoon turmeric powder",
+                    "1 teaspoon cumin powder",
+                    "1 teaspoon coriander powder",
+                    "1 cup coconut milk",
+                    "1/2 cup cream",
+                    "1-2 green chilies, sliced",
+                    "2-3 tablespoons oil",
+                    "Salt, to taste",
+                    "Cilantro, chopped, for garnishing"
+                ],
+                "cooking_method": [
+                    "Heat oil in a pan and fry the onions until golden brown.",
+                    "Add the ginger and garlic paste and fry for 2-3 minutes.",
+                    "Add the turmeric powder, cumin powder, and coriander powder. Mix well.",
+                    "Add a little water and cook on low heat until the spices are well cooked.",
+                    "Add the prawns and cook for 3-4 minutes or until the prawns are cooked through.",
+                    "Add the coconut milk and cream. Mix well and cook for another 2-3 minutes.",
+                    "Add the green chilies and salt to taste.",
+                    "Garnish with cilantro "
+                ]
+            },
+            {
+                "recipe_name": "Chingri Bhorta",
+                "image": "https://example.com/chingri-bhorta.jpg",
+                "ingredients": [
+                    "1 pound shrimp, peeled and deveined",
+                    "2 medium-sized onions, chopped",
+                    "2-3 green chilies, chopped",
+                    "1 tablespoon garlic paste",
+                    "1 tablespoon ginger paste",
+                    "1/4 teaspoon turmeric powder",
+                    "1/2 teaspoon cumin powder",
+                    "1/2 teaspoon coriander powder",
+                    "1/2 teaspoon red chili powder",
+                    "Salt, to taste",
+                    "3-4 tablespoons oil",
+                    "Cilantro, chopped, for garnishing"
+                ],
+                "cooking_method": [
+                    "Boil the shrimp in water until they turn pink, then remove from heat and drain.",
+                    "Heat oil in a pan and fry the onions until golden brown.",
+                    "Add the ginger and garlic paste and fry for 2-3 minutes.",
+                    "Add the shrimp and stir-fry for 2-3 minutes.",
+                    "Add the turmeric powder, cumin powder, coriander powder, and red chili powder. Mix well.",
+                    "Add salt to taste and cook for another 2-3 minutes.",
+                    "Remove from heat and let it cool for a while.",
+                    "Using a blender, blend the shrimp mixture into a smooth paste.",
+                    "Garnish with chopped cilantro and serve with steamed rice."
+                ],
+                "rating": 4.5
+            }
+        ]
+    },
+    {
+        "chef_id": "SO1001",
+        "chef_name": "Shawkat Osman",
+        "chef_image": "https://example.com/shawkat-osman.jpg",
+        "bio": "Shawkat Osman is a Bangladeshi culinary expert, cookbook author, and television personality. He is widely regarded as one of the pioneers of modern Bangladeshi cuisine. Shawkat Osman has authored several cookbooks and hosted several cooking shows on television.",
+        "likes": 8000,
+        "experience": 25,
+        "recipes": [
+            {
+                "recipe_name": "Dhaka Style Chicken Biriyani",
+                "image": "https://example.com/dhaka-style-chicken-biriyani.jpg",
+                "ingredients": [
+                    "2 cups Basmati rice",
+                    "4 chicken legs, skin removed and cut into pieces",
+                    "1 onion, finely sliced",
+                    "1 teaspoon ginger paste",
+                    "1 teaspoon garlic paste",
+                    "1 teaspoon cumin powder",
+                    "1 teaspoon coriander powder",
+                    "1 teaspoon red chili powder",
+                    "1 teaspoon turmeric powder",
+                    "1/2 cup plain yogurt",
+                    "1/4 cup milk",
+                    "1/4 cup ghee",
+                    "Salt, to taste",
+                    "Cilantro, chopped, for garnishing"
+                ],
+                "cooking_method": [
+                    "Wash and soak the rice in water for 30 minutes.",
+                    "Heat ghee in a large pan and fry the onions until golden brown.",
+                    "Add the ginger and garlic paste and fry for 2-3 minutes.",
+                    "Add the chicken and fry until the chicken turns brown.",
+                    "Add the cumin powder, coriander powder, red chili powder, turmeric powder, and salt to taste. Mix well.",
+                    "Add the plain yogurt and milk. Mix well.",
+                    "Cook the chicken on low heat until it is cooked through.",
+                    "In another pot, boil the rice until it is half cooked.",
+                    "Drain the water from the rice and put a layer of rice on top of the chicken mixture. Repeat this layering process until all the rice and chicken mixture have been used up.",
+                    "Cover the pot tightly with a lid and cook on low heat for about 20-25 minutes.",
+                    "Turn off the heat and let it rest for 10-15 minutes.",
+                    "Garnish with chopped cilantro and serve hot."
+                ],
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Mutton Rezala",
+                "image": "https://example.com/mutton-rezala.jpg",
+                "ingredients": [
+                    "2 pounds mutton, cut into pieces",
+                    "2 medium-sized onions, chopped",
+                    "2-3 green chilies, chopped",
+                    "1 tablespoon garlic paste",
+                    "1 tablespoon ginger paste",
+                    "1/4 teaspoon turmeric powder",
+                    "1/2 teaspoon cumin powder",
+                    "1/2 teaspoon coriander powder",
+                    "1/2 teaspoon red chili powder",
+                    "1 cup plain yogurt",
+                    "1/4 cup ghee",
+                    "Salt, to taste",
+                    "Cilantro, chopped, for garnishing"
+                ],
+                "cooking_method": [
+                    "Heat ghee in a pan and fry the onions until golden brown.",
+                    "Add the ginger and garlic paste and fry for 2-3 minutes.",
+                    "Add the mutton pieces and fry until they turn brown.",
+                    "Add the turmeric powder, cumin powder, coriander powder, and red chili powder. Mix well.",
+                    "Add salt to taste and cook for another 2-3 minutes.",
+                    "Add plain yogurt and mix well.",
+                    "Cook on low heat until the mutton is tender and the gravy has thickened.",
+                    "Garnish with chopped cilantro and serve hot with naan or rice."
+                ],
+                "rating": 4.6
+            },
+            {
+                "recipe_name": "Mishti Doi",
+                "image": "https://example.com/mishti-doi.jpg",
+                "ingredients": [
+                    "4 cups whole milk",
+                    "1 cup sugar",
+                    "1/4 teaspoon cardamom powder",
+                    "1 tablespoon yogurt",
+                    "1/4 cup water"
+                ],
+                "cooking_method": [
+                    "Heat the milk in a heavy-bottomed pan and bring to a boil.",
+                    "Reduce the heat and let the milk simmer until it has reduced to half its volume.",
+                    "Add the sugar and cardamom powder and mix well.",
+                    "Remove from heat and let it cool down to room temperature.",
+                    "Mix the yogurt with water and add it to the cooled milk mixture.",
+                    "Transfer the mixture to a clay pot or any other heat-resistant container.",
+                    "Cover the pot with a lid or a piece of cloth and keep it in a warm place for 6-8 hours or overnight.",
+                    "Refrigerate for at least 2 hours before serving."
+                ],
+                "rating": 4.7
+            }
+        ]
+    },
+    {
+        "chef_id": "CN1001",
+        "chef_name": "Chef Nahid",
+        "chef_image": "https://example.com/images/chef-nahid.jpg",
+        "bio": "Chef Nahid is a passionate cook who has been honing her skills in the kitchen for over a decade. Her love for food and cooking has taken her on a journey to explore different cuisines and techniques, and she loves to share her knowledge with others.",
+        "likes": 5000,
+        "experience": "Over 10 years of experience in the culinary industry",
+        "recipes": [
+            {
+                "recipe_name": "Spicy Chicken Curry",
+                "recipe_image": "https://example.com/images/spicy-chicken-curry.jpg",
+                "ingredients": [
+                    "1 lb chicken breast, diced",
+                    "2 tbsp vegetable oil",
+                    "1 onion, chopped",
+                    "3 garlic cloves, minced",
+                    "1 tbsp grated ginger",
+                    "1 tbsp tomato paste",
+                    "1 can diced tomatoes",
+                    "1 tsp cumin",
+                    "1 tsp coriander",
+                    "1 tsp turmeric",
+                    "1 tsp garam masala",
+                    "1/2 tsp cayenne pepper",
+                    "1/2 cup water",
+                    "Salt and pepper to taste"
+                ],
+                "cooking_method": "1. Heat oil in a large pot over medium-high heat. Add onions and cook until softened. Add garlic and ginger, and cook for another minute.\n2. Add tomato paste and stir for 30 seconds.\n3. Add diced tomatoes, spices, and water. Stir well and bring to a boil.\n4. Add chicken, reduce heat to low, cover, and simmer for 20-25 minutes or until chicken is cooked through.\n5. Adjust seasoning to taste and serve with rice or naan.",
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Grilled Salmon with Lemon and Herbs",
+                "recipe_image": "https://example.com/images/grilled-salmon.jpg",
+                "ingredients": [
+                    "4 salmon fillets",
+                    "2 tbsp olive oil",
+                    "1 lemon, sliced",
+                    "1/4 cup fresh herbs (such as parsley, dill, and thyme), chopped",
+                    "Salt and pepper to taste"
+                ],
+                "cooking_method": "1. Preheat grill to medium-high heat.\n2. Brush salmon fillets with olive oil and season with salt and pepper.\n3. Grill salmon for 5-7 minutes per side, or until cooked through.\n4. Remove from grill and top with lemon slices and chopped herbs.",
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "Classic Beef Stew",
+                "recipe_image": "https://example.com/images/beef-stew.jpg",
+                "ingredients": [
+                    "2 lbs beef chuck, cut into 1-inch pieces",
+                    "2 tbsp vegetable oil",
+                    "1 onion, chopped",
+                    "3 garlic cloves, minced",
+                    "3 carrots, chopped",
+                    "3 celery stalks, chopped",
+                    "2 tbsp tomato paste",
+                    "4 cups beef broth",
+                    "2 bay leaves",
+                    "1 tsp thyme",
+                    "1 tsp rosemary",
+                    "1 tsp paprika",
+                    "1/4 cup flour",
+                    "Salt and pepper to taste"
+                ],
+                "cooking_method": [
+                    " Heat oil in a large pot over medium-high heat. Add beef and cook until browned on all sides. Remove beef from pot and set aside.",
+                    "Add onion, garlic, carrots, and celery to the pot. Cook until the vegetables are softened.",
+                    "Add tomato paste and stir for 30 seconds.",
+                    "Return the beef to the pot and add beef broth, bay leaves, thyme, rosemary, paprika, salt, and pepper. Stir well and bring to a boil.",
+                    "Reduce heat to low, cover, and simmer for 2-3 hours or until beef is tender.",
+                    "Remove bay leaves. Mix flour with a little bit of water to create a slurry, then stir it into the stew to thicken the sauce.",
+                    "Adjust seasoning to taste and serve hot."
+                ],
+                "rating": 4.7
+            }
+        ]
+    }
+]
