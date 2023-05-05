@@ -99,11 +99,11 @@
     },
     {
         "chef_id": "CR1001",
-        "chef_name": "Chef Rokon",
+        "chef_name": "Chef Nayeem Ashraf",
         "chef_image": "https://example.com/shawkat-osman.jpg",
-        "bio": "Chef Rokon is a Bangladeshi culinary expert, cookbook author, and television personality. He is widely regarded as one of the pioneers of modern Bangladeshi cuisine. Chef Rokon has authored several cookbooks and hosted several cooking shows on television.",
+        "bio": "Chef Nayeem Ashraf is a Bangladeshi culinary expert, cookbook author, and television personality. He is widely regarded as one of the pioneers of modern Bangladeshi cuisine. Chef Nayeem Ashraf has authored several cookbooks and hosted several cooking shows on television.",
         "likes": 8000,
-        "experience": 25,
+        "experience": "5 years",
         "recipes": [
             {
                 "recipe_name": "Dhaka Style Chicken Biriyani",
@@ -196,11 +196,11 @@
     },
     {
         "chef_id": "SA1001",
-        "chef_name": "Chef Shahin Alam",
+        "chef_name": "Chef Nasser ",
         "chef_image": "https://example.com/images/chef-nahid.jpg",
         "bio": "Chef Shahin Alam is a passionate cook who has been honing his skills in the kitchen for over a decade. His love for food and cooking has taken his on a journey to explore different cuisines and techniques, and he loves to share his knowledge with others.",
         "likes": 5000,
-        "experience": "Over 10 years of experience in the culinary industry",
+        "experience": "3 years",
         "recipes": [
             {
                 "recipe_name": "Spicy Chicken Curry",
@@ -271,11 +271,11 @@
     },
     {
         "chef_id": "SK1001",
-        "chef_name": "Siddika Kabir",
+        "chef_name": "Kishwar Chowdhury",
         "chef_image": "https://example.com/siddika-kabir.jpg",
-        "bio": "Siddika Kabir was a renowned Bangladeshi cooking expert, cookbook author, and television presenter. She was the host of a popular cooking show called \"Ranna Khaddo Pushti\" which aired for more than two decades. Siddika Kabir authored several cookbooks and was widely regarded as the \"Queen of Bengali Cuisine\".",
+        "bio": "Chowdhury's restaurant, The Good Egg, serves Jewish-inspired cuisine with a Middle Eastern twist, using fresh and sustainable ingredients. The restaurant has won several awards, including Time Out's Best Brunch in London in 2017.",
         "likes": 12000,
-        "experience": 35,
+        "experience": "9 years experience",
         "recipes": [
             {
                 "recipe_name": "Beef Bhuna",
@@ -369,11 +369,11 @@
     },
     {
         "chef_id": "SO1001",
-        "chef_name": "Shawkat Osman",
+        "chef_name": "Moniruzzaman",
         "chef_image": "https://example.com/shawkat-osman.jpg",
-        "bio": "Shawkat Osman is a Bangladeshi culinary expert, cookbook author, and television personality. He is widely regarded as one of the pioneers of modern Bangladeshi cuisine. Shawkat Osman has authored several cookbooks and hosted several cooking shows on television.",
+        "bio": "Moniruzzaman is a Bangladeshi culinary expert, cookbook author, and television personality. He is widely regarded as one of the pioneers of modern Bangladeshi cuisine. Moniruzzaman has authored several cookbooks and hosted several cooking shows on television.",
         "likes": 8000,
-        "experience": 25,
+        "experience": "10 years experience",
         "recipes": [
             {
                 "recipe_name": "Dhaka Style Chicken Biriyani",
@@ -470,7 +470,7 @@
         "chef_image": "https://example.com/images/chef-nahid.jpg",
         "bio": "Chef Nahid is a passionate cook who has been honing her skills in the kitchen for over a decade. Her love for food and cooking has taken her on a journey to explore different cuisines and techniques, and she loves to share her knowledge with others.",
         "likes": 5000,
-        "experience": "Over 10 years of experience in the culinary industry",
+        "experience": "15 years experience",
         "recipes": [
             {
                 "recipe_name": "Spicy Chicken Curry",
