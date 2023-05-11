@@ -26,3 +26,7 @@ FoodHub is built using the following technologies:
 
 - **Frontend**: React.js, HTML, CSS, javascript
 - **Backend**:  Express.js
+
+### Live Link
+client side : https://chef-recipe-hunter-auth-15c8f.web.app/
+server side: https://chef-recipe-hunter-server-khadiza083.vercel.app/
